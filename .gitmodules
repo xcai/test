@@ -1,0 +1,6 @@
+[submodule "hosts"]
+	path = hosts
+	url = git@github.com:xcai/hosts.git
+[submodule "python-notebook"]
+	path = python-notebook
+	url = git@github.com:xcai/python-notebook.git
